@@ -14,6 +14,6 @@ PyTorch中文文档：https://pytorch-cn.readthedocs.io/zh/stable/
 
 部分PyTorch代码来自GitHub开源仓库：https://github.com/ShusenTang/Dive-into-DL-PyTorch
 
-## 【Pytorh本地安装】
+## 【Pytorch本地安装】
 
 win10：https://www.cnblogs.com/zhouzhiyao/p/11784055.html
